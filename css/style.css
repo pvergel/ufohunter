@@ -33,6 +33,7 @@ h2 {
 	}
 
 ul.nav {
+	font-size: 1 em;
 	margin: 120 px 0 0 0;
 	list-style: none;
 	float: right;
@@ -66,3 +67,4 @@ ul.nav li a{
 	margin: 15px 0px;
     text-align: center;
 }
+
