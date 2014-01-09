@@ -1,7 +1,7 @@
 body {
 	font-family: 'Special Elite', sans-serif;
 	color:  #faf3bc;
-    background: #2a2a2a ;
+    background-color: #2a2a2a;
 }
 
 a {
@@ -29,7 +29,7 @@ h2 {
 }
 
 .btn:hover{
-	background-color: #4cc4a7;
+	background-color: #151515;
 	}
 
 ul.nav {
