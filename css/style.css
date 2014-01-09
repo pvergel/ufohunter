@@ -1,7 +1,7 @@
 body {
 	font-family: 'Nunito', sans-serif;
-	color: #FAF3BC;
-    background: #420600 url('img/bg-texture.jpg') repeat;
+	color:  #faf3bc;
+    background: #2a2a2a ;
 }
 
 a {
@@ -23,7 +23,7 @@ h2 {
 	color: #FAF3BC;
 	background: #4FB69F url('image/texture.png') no-repeat right top;
 	padding: 15px 30px;
-	margin: 60px 0px;
+	margin: 80px 0px;
 	border-radius: 25px;
 	text-transform: uppercase;
 }
